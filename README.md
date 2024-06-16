@@ -10,4 +10,4 @@ This is a simple stopwatch webpage built with HTML, CSS, and JavaScript. The sto
 
 <p> Languages Used: HTML, CSS, & JavaScript </p>
 <h2>Preview: </h2>
-<p>This is preview of the project. You can visit live preview on <a href=" target="_blank"> Here. </a></p>
+<p>This is preview of the project. You can visit live preview on <a href="https://sanjanavh.github.io/prodigyWD_02" target="_blank"> Here. </a></p>
